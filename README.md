@@ -1,10 +1,10 @@
 __Here is a bit of code from different projects.__
 
-_1990s_
+_Korn_
 
-_2000s_
+_Perl_
 
-_2005-2010_
+_Python_
 
-_2011-2019_
+_Bash_
 
