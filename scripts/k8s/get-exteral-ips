@@ -1,1 +1,0 @@
-kubectl get nodes -o wide |  awk {'print $1" " $2 " " $7'} | column -t
